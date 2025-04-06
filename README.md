@@ -1,1 +1,1 @@
-# logistic-regression-model
+# Logistic Regression Model
