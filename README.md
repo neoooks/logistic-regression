@@ -1,3 +1,3 @@
-# Logistic Regression Model
+# Logistic Regression
 
-Binary classification of classes using the Logistic Regression model. 
+Binary classification of classes using Logistic Regression. 
